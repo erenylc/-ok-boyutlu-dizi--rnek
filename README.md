@@ -1,0 +1,1 @@
+# -ok-boyutlu-dizi--rnek
