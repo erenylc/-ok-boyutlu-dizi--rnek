@@ -1,1 +1,1 @@
-# -ok-boyutlu-dizi--rnek
+# -cok-boyutlu-dizi--rnek
